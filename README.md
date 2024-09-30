@@ -1,4 +1,5 @@
 ##刚才新上传的`A_video_01_new.py`，友友们下载好文件，`把361行那个root_path路径改成自己的就ok了（下载里面有一个zhang_xue_liang的文件夹，文件夹里有一个mp4.就是这个文件夹的路径。尽量不要包含有中文），就可以直接运行出结果`
+
 ##A_video_01.py是旧的文件，A_video_01_Abcd.py是升级版的。`理论上把A_video_01_new.py的361-403行复制粘贴到A_video_01_Abcd.py的373-415位置，A_video_01_Abcd.py就可以直接运行`
 
 ##啊啊啊啊啊啊
