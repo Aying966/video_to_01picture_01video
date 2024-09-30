@@ -1,5 +1,5 @@
-##* 刚才新上传的`A_video_01_new.py`，友友们下载好文件，`把361行那个root_path路径改成自己的就ok了，就可以直接运行出结果`
-## A_video_01.py是旧的文件，A_video_01_Abcd.py是升级版的。`理论上把A_video_01_new.py的361-403行复制粘贴到A_video_01_Abcd.py的373-415位置，A_video_01_Abcd.py就可以直接运行`
+##刚才新上传的`A_video_01_new.py`，友友们下载好文件，`把361行那个root_path路径改成自己的就ok了，就可以直接运行出结果`
+##A_video_01.py是旧的文件，A_video_01_Abcd.py是升级版的。`理论上把A_video_01_new.py的361-403行复制粘贴到A_video_01_Abcd.py的373-415位置，A_video_01_Abcd.py就可以直接运行`
 
 ##啊啊啊啊啊啊
 * 这是我第一个上传到的github项目
